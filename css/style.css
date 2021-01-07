@@ -1,0 +1,33 @@
+html {
+    font-family: Arial;
+}
+
+.container {
+    margin: 20px auto;
+    text-align: center;
+    display: grid;
+    width: 1000px;
+    grid-template-columns: 3fr 1fr;
+    grid-template-rows: 200px auto;
+    grid-gap: 10px;
+
+    background-color: #E9967A;
+}
+
+.photo {
+    position: relative;
+    top:30px;
+
+}
+
+h2 { text-align: left;   
+    position: relative;
+    left: 30px;
+}
+
+.contacts {
+    text-align: right;
+    position: relative;
+    top:30px;
+    right: 30px;
+}
