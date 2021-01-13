@@ -17,6 +17,7 @@ html {
 .photo {
     position: relative;
     top:30px;
+    border-radius: 50%;
 
 }
 
@@ -30,4 +31,14 @@ h2 { text-align: left;
     position: relative;
     top:30px;
     right: 30px;
+}
+
+.experience .about {
+    text-align:justify;
+    position: relative;
+    left: 30 px;
+}
+
+h3 {
+
 }

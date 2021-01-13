@@ -1,0 +1,96 @@
+html {    
+    
+    font-family: Nunito; 
+    background-color: lightcyan;
+    color: #002266;
+    font-size: 4em;
+
+
+}
+
+
+.container {
+
+    background-color: lightblue;
+    border-radius: 15px;
+    padding: 50px;
+}
+
+.column {
+
+    float: left;
+}
+
+.column.left {
+
+    width: 20%;
+    margin-right: 50px;
+}
+
+.column.right {
+
+    width: 70%;
+}
+
+
+
+.about {
+
+    margin-bottom: 50px;
+    font-size: 1.25rem;
+
+}
+ul {
+
+    font-weight: bold;
+    list-style-type: none;
+}
+
+a {
+    color: #002266;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+a:hover {
+
+    color: black;
+}
+
+
+
+.main.grid {
+    
+    width: 60%;
+   
+    margin: 50px auto;
+
+
+  }
+.experience {
+
+
+}
+
+  
+img {
+    
+    width: 70%;
+    max-width: 300px;
+    height: auto;
+    border-radius: 15px;
+    margin-top: 50px;
+    margin-left: 50px;
+
+  }
+
+span {
+    font-style: italic;
+    float: right;
+}
+
+#name {
+    font-weight: bold;
+    font-size: 1.1rem;
+    margin-left: 50px;
+}
